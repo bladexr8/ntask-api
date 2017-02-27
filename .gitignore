@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+logs
+server.crt
+server.key
+public/apidoc
